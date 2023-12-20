@@ -1,0 +1,175 @@
+scanner_numb = 1
+scanner_numb = 2
+scanner_numb = 3
+scanner_numb = 4
+scanner_numb = 5
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=1 ; izrot=1 ; facerot=none , translate: [  108. -1136.    57.]
+scanner_numb = 6
+scanner_numb = 7
+scanner_numb = 8
+scanner_numb = 9
+scanner_numb = 10
+scanner_numb = 11
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=1 ; izrot=3 ; facerot=ztox , translate: [ 104.   60. 1191.]
+scanner_numb = 12
+scanner_numb = 13
+scanner_numb = 14
+scanner_numb = 15
+scanner_numb = 16
+scanner_numb = 17
+scanner_numb = 18
+scanner_numb = 19
+scanner_numb = 20
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=1 ; izrot=1 ; facerot=ztoy , translate: [  28.   99. 2459.]
+scanner_numb = 21
+scanner_numb = 22
+scanner_numb = 23
+scanner_numb = 24
+scanner_numb = 25
+scanner_numb = 26
+scanner_numb = 27
+scanner_numb = 28
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=1 ; izrot=3 ; facerot=none , translate: [   55. -1183.  2527.]
+scanner_numb = 29
+scanner_numb = 30
+scanner_numb = 31
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=-1 ; izrot=2 ; facerot=ztox , translate: [  101. -2413.   146.]
+scanner_numb = 32
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=1 ; izrot=0 ; facerot=ztoy , translate: [1219.   79. 2541.]
+scanner_numb = 33
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=-1 ; izrot=1 ; facerot=ztox , translate: [ 158. 1274. 2455.]
+scanner_numb = 34
+scanner_numb = 35
+scanner_numb = 1
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=-1 ; izrot=3 ; facerot=ztox , translate: [ 186. 2456. 2380.]
+scanner_numb = 2
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=-1 ; izrot=0 ; facerot=ztoy , translate: [ 139. 3642. 2490.]
+scanner_numb = 3
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=-1 ; izrot=1 ; facerot=none , translate: [  116. -2406.  2569.]
+scanner_numb = 4
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=1 ; izrot=0 ; facerot=ztoy , translate: [-1173. -1146.  2550.]
+scanner_numb = 6
+scanner_numb = 7
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=-1 ; izrot=0 ; facerot=none , translate: [-2300. -1212.  2377.]
+scanner_numb = 8
+scanner_numb = 9
+scanner_numb = 10
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=-1 ; izrot=2 ; facerot=ztox , translate: [   67. -2257.  3688.]
+scanner_numb = 12
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=1 ; izrot=3 ; facerot=ztoy , translate: [-1094.  1335.  2464.]
+scanner_numb = 13
+18 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=-1 ; izrot=3 ; facerot=none , translate: [-1128. -2365.  2443.]
+scanner_numb = 14
+24 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=1 ; izrot=2 ; facerot=ztoy , translate: [  128. -2387.  1294.]
+scanner_numb = 15
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=-1 ; izrot=1 ; facerot=ztox , translate: [ 1331. -2414.  2418.]
+scanner_numb = 16
+18 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=-1 ; izrot=3 ; facerot=ztoy , translate: [-1113.  2504.  2563.]
+scanner_numb = 17
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=1 ; izrot=3 ; facerot=none , translate: [-1047.  1190.  3745.]
+scanner_numb = 18
+24 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=-1 ; izrot=2 ; facerot=ztoy , translate: [-1099.   114.  2497.]
+scanner_numb = 19
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=-1 ; izrot=0 ; facerot=ztox , translate: [2556.   -4. 2493.]
+scanner_numb = 21
+scanner_numb = 22
+18 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=1 ; izrot=0 ; facerot=ztox , translate: [-1210. -1159.  1260.]
+scanner_numb = 23
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=1 ; izrot=2 ; facerot=ztox , translate: [3740.    8. 2546.]
+scanner_numb = 24
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=1 ; izrot=0 ; facerot=ztox , translate: [2562. 1288. 2553.]
+scanner_numb = 25
+scanner_numb = 26
+18 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=-1 ; izrot=1 ; facerot=none , translate: [-2233. -2293.  2383.]
+scanner_numb = 27
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=1 ; izrot=2 ; facerot=ztoy , translate: [ 1290. -3504.  2383.]
+scanner_numb = 29
+scanner_numb = 30
+18 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=1 ; izrot=0 ; facerot=ztoy , translate: [-1043. -2368.  3606.]
+scanner_numb = 34
+18 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=-1 ; izrot=0 ; facerot=none , translate: [-1199.  3727.  2439.]
+scanner_numb = 35
+15 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=1 ; izrot=1 ; facerot=ztox , translate: [ 1191. -3565.  3682.]
+scanner_numb = 6
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=-1 ; izrot=2 ; facerot=none , translate: [ 2464. -3583.  2543.]
+scanner_numb = 8
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=1 ; izrot=1 ; facerot=ztox , translate: [-1098. -3559.  3605.]
+scanner_numb = 9
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=1 ; izrot=2 ; facerot=none , translate: [ 1351. -4756.  3766.]
+scanner_numb = 21
+scanner_numb = 25
+15 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=1 ; izrot=0 ; facerot=ztoy , translate: [ 2525. -4655.  3628.]
+scanner_numb = 29
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=-1 ; izrot=0 ; facerot=ztox , translate: [ 2389. -5879.  3631.]
+scanner_numb = 21
+12 >=12 overlaps . Appending and removing duplicates
+Found >12 overlaps, returning the matched scan data
+Overlap found with invz=-1 ; izrot=1 ; facerot=ztoy , translate: [ 3713. -5845.  3627.]
