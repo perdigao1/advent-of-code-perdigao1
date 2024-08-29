@@ -172,3 +172,4 @@ cython_debug/
 *.exe
 *.exe.recipe
 *.tlog
+*.enc
