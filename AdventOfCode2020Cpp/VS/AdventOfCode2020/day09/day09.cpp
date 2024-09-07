@@ -15,8 +15,6 @@
 #include <algorithm>
 
 #define uint unsigned int
-//#define uint unsigned long
-//#define uint unsigned long long
 
 using namespace std;
 
