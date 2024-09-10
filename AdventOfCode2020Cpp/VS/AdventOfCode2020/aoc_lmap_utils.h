@@ -15,19 +15,21 @@
 #include <deque> //like vector+queue but items can be inserted/removed from start 
 #include <algorithm> //max, min
 
+#define strings_t vector<string>
 #define uint unsigned int
 //#define uint unsigned long
 //#define uint unsigned long
 
 using namespace std;
 
-vector<string> get_lines_from_file(const char* filename) {
+//vector<string> get_lines_from_file(const char* filename) {
+strings_t get_lines_from_file(const char* filename) {
     // Read data from file
     // returns a list of strings
 
     ifstream my_file(filename); // Open the file
 
-    vector<string> all_lines;
+    strings_t all_lines;
     string sline;
 
     if (my_file.is_open()) {
@@ -65,7 +67,7 @@ vector<string> get_lines_from_file(const char* filename) {
 
 struct match_group_pair {
     string match;
-    vector<string> groups;
+    strings_t groups;
 };
 
 vector< match_group_pair > regex_get_matches_and_their_groups(const string& text, const string& pattern) {
