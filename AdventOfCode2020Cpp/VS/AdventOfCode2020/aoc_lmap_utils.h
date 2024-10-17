@@ -17,8 +17,8 @@
 
 #define strings_t vector<string>
 #define uint unsigned int
-//#define uint unsigned long
-//#define uint unsigned long
+#define uintl unsigned long
+#define uintll unsigned long long
 
 using namespace std;
 
