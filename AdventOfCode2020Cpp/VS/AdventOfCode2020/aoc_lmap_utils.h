@@ -15,12 +15,19 @@
 #include <deque> //like vector+queue but items can be inserted/removed from start 
 #include <algorithm> //max, min
 
-#define strings_t vector<string>
-#define uint unsigned int
-#define uintl unsigned long
-#define uintll unsigned long long
+//#define strings_t vector<string>
+//#define uint unsigned int
+//#define uintl unsigned long
+//#define uintll unsigned long long
+// 
 
 using namespace std;
+
+using strings_t = vector<string>;
+using uint = unsigned int;
+using uintl = unsigned long;
+using uintll = unsigned long long;
+
 
 //vector<string> get_lines_from_file(const char* filename) {
 strings_t get_lines_from_file(const char* filename) {
