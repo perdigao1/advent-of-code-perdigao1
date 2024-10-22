@@ -116,3 +116,46 @@ template <typename T> void delete2DArray(T** array, int rows) {
     }
     delete[] array;
 }
+
+
+//Split string by delimiter
+vector<string> split(string str, char delim) {
+    // Declare a vector to store the substrings
+    vector<string> result;
+    // Declare a string to store the current substring
+    string current;
+    // Loop through each character in the string
+    for (char c : str) {
+        // If the character is equal to the delimiter, then add the current substring to the result vector and clear it
+        if (c == delim) {
+            result.push_back(current);
+            current.clear();
+        }
+        // Otherwise, append the character to the current substring
+        else {
+            current += c;
+        }
+    }
+    // Add the last substring to the result vector
+    result.push_back(current);
+    // Return the result vector
+    return result;
+}
+
+#include <ranges>
+#include <string_view>
+
+// Function to split a string by a delimiter
+vector<string> split2(const string& str, char delimiter) {
+    vector<string> result;
+
+    // Use ranges to split the string
+    auto splitView = string_view(str) | ranges::views::split(delimiter);
+
+    for (const auto& subrange : splitView) {
+        result.emplace_back(subrange.begin(), subrange.end());
+    }
+
+    return result;
+}
+
