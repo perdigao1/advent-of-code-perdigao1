@@ -14,6 +14,8 @@
 #include <unordered_map>
 #include <deque> //like vector+queue but items can be inserted/removed from start 
 #include <algorithm> //max, min
+#include <ranges>
+#include <string_view>
 
 //#define strings_t vector<string>
 //#define uint unsigned int
@@ -142,8 +144,7 @@ vector<string> split(string str, char delim) {
     return result;
 }
 
-#include <ranges>
-#include <string_view>
+
 
 // Function to split a string by a delimiter
 vector<string> split2(const string& str, char delimiter) {
