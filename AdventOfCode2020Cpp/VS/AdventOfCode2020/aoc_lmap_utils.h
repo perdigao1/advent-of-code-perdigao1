@@ -147,6 +147,8 @@ vector<string> split(string str, char delim) {
 
 
 // Function to split a string by a delimiter
+//C++ 20
+#if __cplusplus >= 202002L
 vector<string> split2(const string& str, char delimiter) {
     vector<string> result;
 
@@ -159,4 +161,4 @@ vector<string> split2(const string& str, char delimiter) {
 
     return result;
 }
-
+#endif // C++ 20
