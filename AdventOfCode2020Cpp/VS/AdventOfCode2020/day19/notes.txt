@@ -1,0 +1,28 @@
+Part 2 test should be working with the following
+
+
+bbabbbbaabaabba
+
+From rule 0
+
+0: 8 11
+
+and modified 8 and 11
+
+8: 42 8 | 42
+11: 42 11 31 | 42 31
+
+
+42 accepts
+babbb ; baabb ; bbaab ; bbabb ; bbbab ; bbbbb ; abbbb ; aabbb ; aaaab ; aaabb ; aaaba ; ababa ; bbbba ; aaaaa ; baaaa ; bbaaa ;
+
+31 accepts
+bbaba ; bbbaa ; babab ; babaa ; babba ; baaba ; baaab ; ababb ; abaab ; abbab ; abaaa ; abbaa ; abbba ; aabab ; aabaa ; aabba
+
+bbabbbbaabaabba
+
+42, bbaabaabba
+42, bbaab, 31
+42, 42, 31
+
+
