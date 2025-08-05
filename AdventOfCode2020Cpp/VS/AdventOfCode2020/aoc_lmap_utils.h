@@ -16,6 +16,8 @@
 #include <algorithm> //max, min
 #include <ranges>
 #include <string_view>
+#include <unordered_set>
+#include <cassert>
 
 //#define strings_t vector<string>
 //#define uint unsigned int
