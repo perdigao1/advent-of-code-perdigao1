@@ -2,8 +2,6 @@
 
 #include "../aoc_lmap_utils.h"
 
-//part2 test 291, run 33805
-
 using game_cups = deque<uint>;
 
 void print_cups(game_cups cups) {
