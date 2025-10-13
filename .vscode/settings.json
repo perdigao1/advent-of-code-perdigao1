@@ -55,5 +55,5 @@
         "xtree": "cpp",
         "xutility": "cpp"
     },
-    "python.analysis.autoImportCompletions": true
+    "python.analysis.autoImportCompletions": false
 }
